@@ -1,0 +1,4 @@
+Hello world!
+this doc for trying on python tutorial
+about write/create files
+enjoy and Good Luck!Now the file has more content
